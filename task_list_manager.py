@@ -121,22 +121,8 @@ def orchestrator_method():
         else: 
             print("The current session has ended")
             break
-
-
-
+            
 orchestrator_method()
-    
-
-
-
-
-
-
-    
-
-
-
-
 
 
 
